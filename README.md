@@ -10,3 +10,11 @@ To demonstrate Git version control operations.
 - Remote repository management
 - Change history
 - Merge conflict resolution
+
+## Git Fetch Demonstration
+
+This section demonstrates fetching updates from GitHub.
+
+## Git Pull Demonstration
+
+This section demonstrates integrating remote changes into the local repository.
