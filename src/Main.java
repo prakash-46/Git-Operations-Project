@@ -4,6 +4,10 @@ public class Main {
         System.out.println("Git Operations Project");
         System.out.println("Welcome to DevOps!");
         System.out.println("Learning Git and GitHub");
+<<<<<<< HEAD
+=======
+        System.out.println("Version control made easy!");
+>>>>>>> feature/Welcome-to-git-operations-project
 
     }
 }
