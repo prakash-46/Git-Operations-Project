@@ -7,11 +7,6 @@ public class Main {
         System.out.println("Learning Git and GitHub");
         System.out.println("Version control made easy!");
 
-    
-
-<<<<<<< HEAD
-=======
->>>>>>> feature/Welcome-to-git-operations-project
 
     }
 }
